@@ -1,0 +1,11 @@
+C:\Users\enzoe\Desktop\RPP_LABO2_26102023\RPP.ENZO.2C\LibreriaClases\bin\Debug\net6.0\LibreriaClases.deps.json
+C:\Users\enzoe\Desktop\RPP_LABO2_26102023\RPP.ENZO.2C\LibreriaClases\bin\Debug\net6.0\LibreriaClases.dll
+C:\Users\enzoe\Desktop\RPP_LABO2_26102023\RPP.ENZO.2C\LibreriaClases\bin\Debug\net6.0\LibreriaClases.pdb
+C:\Users\enzoe\Desktop\RPP_LABO2_26102023\RPP.ENZO.2C\LibreriaClases\obj\Debug\net6.0\LibreriaClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzoe\Desktop\RPP_LABO2_26102023\RPP.ENZO.2C\LibreriaClases\obj\Debug\net6.0\LibreriaClases.AssemblyInfoInputs.cache
+C:\Users\enzoe\Desktop\RPP_LABO2_26102023\RPP.ENZO.2C\LibreriaClases\obj\Debug\net6.0\LibreriaClases.AssemblyInfo.cs
+C:\Users\enzoe\Desktop\RPP_LABO2_26102023\RPP.ENZO.2C\LibreriaClases\obj\Debug\net6.0\LibreriaClases.csproj.CoreCompileInputs.cache
+C:\Users\enzoe\Desktop\RPP_LABO2_26102023\RPP.ENZO.2C\LibreriaClases\obj\Debug\net6.0\LibreriaClases.dll
+C:\Users\enzoe\Desktop\RPP_LABO2_26102023\RPP.ENZO.2C\LibreriaClases\obj\Debug\net6.0\refint\LibreriaClases.dll
+C:\Users\enzoe\Desktop\RPP_LABO2_26102023\RPP.ENZO.2C\LibreriaClases\obj\Debug\net6.0\LibreriaClases.pdb
+C:\Users\enzoe\Desktop\RPP_LABO2_26102023\RPP.ENZO.2C\LibreriaClases\obj\Debug\net6.0\ref\LibreriaClases.dll
